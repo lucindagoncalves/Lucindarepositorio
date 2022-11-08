@@ -1,0 +1,38 @@
+{
+    margin:0;
+    padding:0;
+    sizing: border-box;
+}
+
+.center{
+    display:flex;
+    flex-wrap: wrap-reverse;
+    max-width: 1100px;
+    margin:0 auto;
+    padding:0 2%;
+
+}
+
+header{
+    padding: 20px 0;
+}
+
+.logo{
+    width: 15px;
+    padding: 50px;
+    right: 50px;
+    border-radius: 100%;
+
+
+}
+.menu{
+    padding-top: 30px;
+    width:50%;
+    text-align: right;
+}
+.menu{
+    color: red;
+    text-decoration: none;
+    font-weight: bold; 15px
+    margin-right: 15px;
+}
